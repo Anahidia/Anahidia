@@ -35,7 +35,7 @@ y funcionalidades como la reserva de clases, manejo de membresías y estadístic
 
 - **LinkedIn**: www.linkedin.com/in/anahi-diaz-181427278
 - **Correo electrónico**: ad955180@gmail.com
-- **Telefono**: 3454044839
+- **Telefono**: +54 3454044839
 
 ---
 
