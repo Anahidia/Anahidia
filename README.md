@@ -17,7 +17,7 @@ y asegurado una experiencia de usuario óptima a través de APIs seguras.
 
 ## 💼 Proyectos destacados
 
-### [E-commerce Backend](https://github.com/pi-rym/PM4BE-Anahidia)
+### [E-commerce Backend](https://github.com/Anahidia/ecommerce)
 Un sistema de backend para un E-commerce, donde se manejan productos,
 categorías, usuarios y compras. Implementé autenticación de usuarios y
 gestión de stock
